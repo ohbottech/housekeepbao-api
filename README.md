@@ -17,9 +17,8 @@ JSON URL
 
 ### Deploy to AWS elastic beanstalk
 How to deploy
-```
-http://docs.aws.amazon.com/zh_cn/elasticbeanstalk/latest/dg/create-deploy-python-django.html#python-django-prereq
-```
+ : http://docs.aws.amazon.com/zh_cn/elasticbeanstalk/latest/dg/create-deploy-python-django.html#python-django-prereq
+ 
 How to update
 ```
 eb deploy
