@@ -1,13 +1,19 @@
 # housekeepbao-api
 
-###API Endpoint
+### Download
+: https://github.com/housekeepbao/housekeepbao-api
+
+
+### API Endpoint
 HTTP URL
  : http://django-env.7ahwmh3idj.ap-northeast-1.elasticbeanstalk.com/api/cleaner/
- JSON URL
+
+JSON URL
  : http://django-env.7ahwmh3idj.ap-northeast-1.elasticbeanstalk.com/api/cleaner/?format=json
 
 
 
+### Deploy to AWS elastic beanstalk
 How to deploy
 ```
 http://docs.aws.amazon.com/zh_cn/elasticbeanstalk/latest/dg/create-deploy-python-django.html#python-django-prereq
@@ -19,6 +25,10 @@ eb deploy
 
 
 
+### API status
 
-Download
-: https://github.com/housekeepbao/housekeepbao-api
+/api/cleaner
+/api/customer  #TODO
+/api/order     #TODO
+/api/service_item    #TBD
+/api/service_calendar #TBD
