@@ -3,8 +3,10 @@
 ### Download
  : https://github.com/housekeepbao/housekeepbao-api
 
-
 ### API Endpoint
+ : http://django-env.7ahwmh3idj.ap-northeast-1.elasticbeanstalk.com/
+
+### API Example
 HTTP URL
  : http://django-env.7ahwmh3idj.ap-northeast-1.elasticbeanstalk.com/api/cleaner/
 
