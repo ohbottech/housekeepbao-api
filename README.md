@@ -1,7 +1,7 @@
 # housekeepbao-api
 
 ### Download
-: https://github.com/housekeepbao/housekeepbao-api
+ : https://github.com/housekeepbao/housekeepbao-api
 
 
 ### API Endpoint
@@ -27,8 +27,8 @@ eb deploy
 
 ### API status
 
-/api/cleaner
-/api/customer  #TODO
-/api/order     #TODO
-/api/service_item    #TBD
-/api/service_calendar #TBD
+ + /api/cleaner
+ + /api/customer  #TODO
+ + /api/order     #TODO
+ + /api/service_item    #TBD
+ + /api/service_calendar #TBD
